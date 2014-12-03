@@ -1,0 +1,19 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [CANcard.PrjPcb]
+   Generated File[CANcard_pcb.GTL]
+   Generated File[CANcard_pcb.GBL]
+   Generated File[CANcard_pcb.GTO]
+   Generated File[CANcard_pcb.GTS]
+   Generated File[CANcard_pcb.GBS]
+   Generated File[CANcard_pcb.GBO]
+   Generated File[CANcard_pcb.GKO]
+   Generated File[CANcard_pcb.RUL]
+   Generated File[CANcard_pcb.EXTREP]
+   Generated File[CANcard_pcb.REP]
+
+
+Files Generated   : 10
+Documents Printed : 0
+
+Finished Output Generation At 17:27:37 On 2014-10-04

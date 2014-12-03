@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: C:\Workspaces\Altium_Workspace\CANcard\CANcard_pcb.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_poly|Scope=Board|Minimum=19.69
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=9.84
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
